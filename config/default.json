@@ -1,6 +1,6 @@
 {
     "jwtPrivateKey": "unsecured",
     "requiresAuth": true,
-    "db": "mongodb://localhost/vidly",
+    "db": "mongodb://localhost/rental",
     "port": "3900"
 }
